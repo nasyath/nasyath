@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faykarr&label=Profile%20views&color=0e75b6&style=flat" alt="faykarr" /> </p>
 
-- 📫 It's my second account, reach my first account at **@faykarr**
+- 📫 It's my second account, reach my first account at <a href="https://github.com/faykarr"><b>@faykarr</b></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
