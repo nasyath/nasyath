@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nasyath</h1>
 <h3 align="left">A passionate frontend & game developer from Indonesia.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faykarr&label=Profile%20views&color=0e75b6&style=flat" alt="faykarr" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nasyath&label=Profile%20views&color=0e75b6&style=flat" alt="nasyath" /> </p>
 
 - 📫 It's my second account, reach my first account at <a href="https://github.com/faykarr"><b>@faykarr</b></a>
 
